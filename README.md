@@ -1,4 +1,4 @@
-Hi, salam kenal...nama saya Quin Audi Tasya Effendy, dan akrab dipanggil Quin. Saya seorang developer junior web
+Hi, salam kenal...nama saya Quin Audi Tasya Effendy, dan akrab dipanggil Quin. Saya seorang developer junior web developer
 
 SISTEM INFORMASI PRESTASI MAHASISWA
 ==================================
