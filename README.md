@@ -43,3 +43,13 @@ Jalankan website
 ```bash
   php artisan serve
 ```
+## interface halaman admin
+![1](https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa/assets/68654073/a0104fc9-5228-48c5-abc6-5cf845f88378)
+![2](https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa/assets/68654073/33c236d3-28c7-4c77-9a65-50be07fc2e54)
+![3](https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa/assets/68654073/34951f40-4b1f-4f96-a7b9-3508f06ccad5)
+
+## interface halaman siswa
+![4](https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa/assets/68654073/aef6561f-6adc-4269-951b-1168f997f3d1)
+![5](https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa/assets/68654073/b639297e-05e8-48e1-a419-916003a088de)
+![6](https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa/assets/68654073/4c9045ac-a06d-4fd8-9153-a7828a665be3)
+
