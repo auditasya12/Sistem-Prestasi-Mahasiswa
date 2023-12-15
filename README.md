@@ -28,7 +28,7 @@ clone project atau download
 Buka `.env` dan atur database anda
 ```bash
   DB_PORT=3306
-  DB_DATABASE=laravel
+  DB_DATABASE=db_siko
   DB_USERNAME=root
   DB_PASSWORD=
 ```
