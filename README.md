@@ -18,7 +18,7 @@ Isikan data siswa di halaman admin lalu buat akun untuk siswa agar bisa login ha
 clone project atau download
 
 ```bash
-  git clone https://github.com/Rossadwi/siprestof.git
+  git clone https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa.git
   cd SIPRESTOFF
   npm install
   composer install
